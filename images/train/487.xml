@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>487.jpg</filename>
+	<path>/home/akshay/Documents/ObjectDetectionCustom/models/research/object_detection/images/train/487.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>564</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adult/Middle aged</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>71</ymin>
+			<xmax>451</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

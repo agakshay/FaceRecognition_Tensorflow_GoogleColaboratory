@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>097.jpg</filename>
+	<path>/home/akshay/Documents/ObjectDetectionCustom/models/research/object_detection/images/train/097.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Senior Citizen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>11</ymin>
+			<xmax>477</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

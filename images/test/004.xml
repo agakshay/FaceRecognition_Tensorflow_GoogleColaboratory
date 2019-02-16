@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>004.jpg</filename>
+	<path>/home/akshay/Documents/ObjectDetectionCustom/models/research/object_detection/images/test/004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Senior Citizen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>2</ymin>
+			<xmax>302</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,10 @@
+item {
+  id: 1
+  name: 'Senior Citizen'
+}
+
+item {
+  id: 2
+  name: 'Adult/Middle aged'
+}
+
