@@ -24,7 +24,7 @@ I have also uploaded Tensorflow_OD.ipynb were you can see the steps I followed.
 I installed tensorflow just before running tfrecord generating command line.
 - Other images of the errors has been uploaded along with this project. It was mainly due to installation of protobuf compiler version. exporting PYTHONPATH was also a problem so that i have to give it another way which is given in Tensorflow_OD.ipynb file.
  
-#Reference
+# Reference
 1. [Object Detection API repository](https://github.com/tensorflow/models)
 2. [For downloading models](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md)
 3. [Steps that I followed](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10#1-install-tensorflow-gpu-15-skip-this-step-if-tensorflow-gpu-15-is-already-installed)
