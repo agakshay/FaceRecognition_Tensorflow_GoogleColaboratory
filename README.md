@@ -2,7 +2,8 @@
 ## Summary
 In this project, I am using TensorFlow's Object Detection API to Recognise faces of people of different age group.Currently in this project, I have introduced only 2 classes.
 I trained my model using Google Colaboratory because it is free for everyone as well as for those people who cannot afford costly GPU's. I did this project to understand how a CNN can be trained in our own way to detect/classify new objects with the help of a pretrained model.
-**Note: Here I used TensorFlow Object Detection API repository from GitHub and Faster-RCNN-Inception-V2-COCO model from TensorFlow's model zoo.
+
+#### Note: Here I used TensorFlow Object Detection API repository from GitHub and Faster-RCNN-Inception-V2-COCO model from TensorFlow's model zoo.
 ## Steps to follow
 - Upload files in google drive
 - Connect with google colaboratory and google drive
